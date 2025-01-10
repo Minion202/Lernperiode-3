@@ -13,7 +13,7 @@ soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können 
 
 ✍ Heute habe ich das Spielbrett für mein Tic-Tac-Toe-Spiel programmiert. Es ist ein 3x3-Raster, das sowohl die Spielfeldlinien als auch eine Umrandung besitzt. Außerdem habe ich recherchiert, wie ich das Spiel mausgesteuert machen kann. Allerdings fehlen mir noch einige Informationen, um mit der Umsetzung der Maussteuerung beginnen zu können.
 
-## 01.2025
+## 17.01.2025
 
 - [ ] Meine Recherche weiterführen
 - [ ] Maus Steuerung ausprobieren 
