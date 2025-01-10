@@ -8,9 +8,17 @@ soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können 
 
 ## 10.1.2025
 
-- [ ] Das Spieler Brett zeichner also 3 x 3
-- [ ] Recherche machen wie ich das Spiel Maus steuerbar machen kann.
+- [x] Das Spieler Brett zeichner also 3 x 3
+- [x] Recherche machen wie ich das Spiel Maus steuerbar machen kann.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍ Heute habe ich das Spielbrett für mein Tic-Tac-Toe-Spiel programmiert. Es ist ein 3x3-Raster, das sowohl die Spielfeldlinien als auch eine Umrandung besitzt. Außerdem habe ich recherchiert, wie ich das Spiel mausgesteuert machen kann. Allerdings fehlen mir noch einige Informationen, um mit der Umsetzung der Maussteuerung beginnen zu können.
+
+## 01.2025
+
+- [ ] Meine Recherche weiterführen
+- [ ] Maus Steuerung ausprobieren 
+- [ ] Spieler x programmieren versuchen
+- [ ] Wenn ich Spieler x programmieren geschafft habe, den Code für o umschreiben, dass es sich anpasst.
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
