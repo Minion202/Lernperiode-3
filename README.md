@@ -15,10 +15,18 @@ soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können 
 
 ## 17.01.2025
 
-- [ ] Meine Recherche weiterführen
+- [x] Meine Recherche weiterführen
 - [ ] Maus Steuerung ausprobieren 
-- [ ] Spieler x programmieren versuchen
-- [ ] Wenn ich Spieler x programmieren geschafft habe, den Code für o umschreiben, dass es sich anpasst.
+- [x] Spieler x programmieren versuchen
+- [x] Wenn ich Spieler x programmieren geschafft habe, den Code für o umschreiben, dass es sich anpasst.
 
+✍ Heute habe ich zwar die Recherche für die Maussteuerung gemacht, aber ich musste zuerst Unity herunterladen. Deshalb habe ich es gelassen und stattdessen ein normales Tic-Tac-Toe programmiert. Ich habe die beiden Spieler X und O programmiert und es so gemacht, dass der Spieler zuerst auswählen kann, in welches Feld er ziehen möchte. Wenn man Enter drückt, wird dieses Feld gewählt, und der nächste Spieler ist dran.
+
+
+## 24.01.2025
+
+- [ ] Schauen wie ich programmieren kann, dass man gewinnt.
+- [ ] Wenn jemand gewinnt,verliert oder es unentschieden ist, muss das Spiel neu gestartet werden.
+- [ ] Punktezähler programmieren
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
