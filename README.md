@@ -2,6 +2,25 @@
 
 10.1 bis 24.1
 
+## Projekt Tic-Tac-Toe
+Ziel des Spiels: Tic Tac Toe
+Tic Tac Toe ist ein klassisches Strategiespiel für zwei Spieler, bei dem es darum geht, als Erster eine Reihe aus drei gleichen Symbolen zu bilden. Die Spieler treten gegeneinander an und verwenden die Symbole X und O.
+
+Spielregeln:
+Das Spielfeld besteht aus einem 3x3-Gitter.
+Spieler X beginnt das Spiel, gefolgt von Spieler O. Die Spieler wechseln sich ab.
+In jeder Runde wählt der aktuelle Spieler ein freies Feld und setzt dort sein Symbol (X oder O).
+Das Ziel ist es, als Erster drei Symbole in einer horizontalen, vertikalen oder diagonalen Reihe zu platzieren.
+
+Spielende:
+Ein Spieler gewinnt, sobald er drei Symbole in einer Reihe, Spalte oder Diagonale platziert hat.
+Wenn alle Felder belegt sind und kein Spieler gewonnen hat, endet das Spiel unentschieden.
+
+Punkte:
+Nach jedem Spiel wird der Punktestand aktualisiert: Der Gewinner erhält einen Punkt.
+Bei einem Unentschieden gibt es keine Punkte.
+Nach einem Sieg oder Unentschieden wird das Spielfeld zurückgesetzt, und das nächste Spiel kann gestartet werden.
+
 ## Grob-Planung
 Ich möchte ein Tic-Tac-Toe-Spiel erstellen, bei dem zwei Spieler (X und O) gegeneinander antreten können. Anstatt eine Tastatur zu verwenden,
 soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können durch Anklicken des gewünschten Spielfelds ihre Züge machen.
