@@ -25,8 +25,8 @@ soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können 
 
 ## 24.01.2025
 
-- [ ] Schauen wie ich programmieren kann, dass man gewinnt.
-- [ ] Wenn jemand gewinnt,verliert oder es unentschieden ist, muss das Spiel neu gestartet werden.
-- [ ] Punktezähler programmieren
+- [x] Schauen wie ich programmieren kann, dass man gewinnt.
+- [x] Wenn jemand gewinnt,verliert oder es unentschieden ist, muss das Spiel neu gestartet werden.
+- [x] Punktezähler programmieren
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
