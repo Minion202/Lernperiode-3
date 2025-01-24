@@ -2,6 +2,9 @@
 
 10.1 bis 24.1
 
+![image](https://github.com/user-attachments/assets/b4712563-6330-432d-86f2-e9330d1502c4)
+
+
 ## Projekt Tic-Tac-Toe
 Ziel des Spiels: Tic Tac Toe
 Tic Tac Toe ist ein klassisches Strategiespiel für zwei Spieler, bei dem es darum geht, als Erster eine Reihe aus drei gleichen Symbolen zu bilden. Die Spieler treten gegeneinander an und verwenden die Symbole X und O.
