@@ -51,4 +51,6 @@ soll das Spiel ausschliesslich mit der Maus steuerbar sein. Die Spieler können 
 - [x] Wenn jemand gewinnt,verliert oder es unentschieden ist, muss das Spiel neu gestartet werden.
 - [x] Punktezähler programmieren
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## Reflexion 
+Zu Beginn des Projekts habe ich viel Zeit darauf verwendet, herauszufinden, wie ich die Steuerung des Projekts mausgesteuert umsetzen kann. Dieser Prozess hat zwar mehr Zeit in Anspruch genommen als ursprünglich geplant, war jedoch eine wertvolle Lernphase. Trotz der anfänglichen Herausforderungen habe ich es geschafft, mein Projekt erfolgreich abzuschliessen und alle gesetzten Ziele zu erreichen auch mit etwas Zeitdruck.
